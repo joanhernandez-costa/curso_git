@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.black),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'GitHub vs GitLab'),
+      home: const MyHomePage(title: 'Empezamos'),
     );
   }
 }
