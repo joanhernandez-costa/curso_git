@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.redAccent),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Proyecto de prueba para curso Git'),
+      home: const MyHomePage(title: 'Rama principal (master)'),
     );
   }
 }
