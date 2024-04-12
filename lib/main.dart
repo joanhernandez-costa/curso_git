@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.black),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Todo bien?'),
+      home: const MyHomePage(title: 'Este es el diseño completo'),
     );
   }
 }
@@ -67,7 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
         tooltip: 'Contactos',
-        child: const Icon(Icons.abc),
+        child: const Icon(Icons.access_alarm),
       ), 
     );
   }
